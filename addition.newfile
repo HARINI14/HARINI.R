@@ -1,0 +1,5 @@
+a=int(input("200 is positive or negative"))
+ifa>0:
+    print("200 is positive")
+    ifa<0:
+        print("200 is negative")

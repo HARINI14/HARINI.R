@@ -1,0 +1,8 @@
+#checkthegivennumberispositive
+a=200
+if a>0:
+    print("200 is positive")
+    if a<0:
+        print("200 is negative")
+    
+
